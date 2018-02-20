@@ -16,7 +16,7 @@
     },
     "env": {
         "PUBLISH_TASK_STATUS_UPDATES": "true",
-        "TASK_STATUSES": "TASK_FAILED,TASK_KILLING,TASK_KILLED,TASK_LOST",
+        "TASK_STATUSES": "TASK_FAILED,TASK_KILLING,TASK_LOST",
         "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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",
         "MARATHON_HOST": "mesos.xdotai-internal.net",
         "SLACK_BOT_NAME": "Hal 9000",
